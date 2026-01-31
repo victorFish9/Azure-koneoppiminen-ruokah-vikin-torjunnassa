@@ -6,3 +6,6 @@ Tavoite: Työn tavoitteena on luoda proof-of-concept -ratkaisu, joka hyödyntä�
 Työn lopputuloksena syntyy: -Dokumentaatio ruokahävikin ongelmasta, koneoppimisen hyödyntämismahdollisuuksista ja Azure Machine Learning -alustan soveltuvuudesta. -Käytännön toteutus (proof-of-concept): pieni datamalli, jonka avulla luodaan Azure ML -ennustemalli kysynnän ennustamiseen. 
 
 -Analyysi tuloksista: mallin tarkkuus, sen rajoitteet, sekä arvio siitä, miten ratkaisu voisi käytännössä vähentää hävikkiä vähittäiskaupassa. -Opas mallin hyödyntämiseen ja sen jatkokehitysmahdollisuuksiin. 
+
+Datasetti on luotu Mostly AI -kielimallilla. Mostly AI -lisenssi: https://github.com/mostly-ai/mostlyai-qa/blob/main/LICENSE
+
